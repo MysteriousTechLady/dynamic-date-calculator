@@ -1,2 +1,3 @@
 # dynamic-date-calculator
-Gets the date, year and displays it via jsx or tsx element 
+
+A dynamic date component for javscript based apps to diaplsy timing in a smooth english way for anyone to read.
